@@ -1,0 +1,6 @@
+ime,prezime,indeks,godina,grupa
+iva,nikola,pavle,veljko,aja,marko,ana,petar,marina
+peric,nikolic,raketic,djordjevic,aleksic,vasic,jovanovic,djukic,jaksic
+100,101,102,103,104,105,106,107,108
+23,23,23,23,23,22,22,22,24
+1,2,3,4,5,1,2,3,4
